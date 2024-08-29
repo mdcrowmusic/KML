@@ -3,7 +3,7 @@
 <GroundOverlay>
 	<name>Untitled Image Overlay</name>
 	<Icon>
-		<href>Lefler.png</href>
+		<href>KML/Lefler.png</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<altitude>24</altitude>
