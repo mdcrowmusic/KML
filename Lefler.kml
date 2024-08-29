@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Untitled Image Overlay</name>
+	<Icon>
+		<href>Lefler.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitude>24</altitude>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>35.58405</north>
+		<south>35.582025</south>
+		<east>-92.44793055555556</east>
+		<west>-92.4519111111111</west>
+		<rotation>10</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
